@@ -45,11 +45,6 @@ To get a local copy up and running, follow these steps:
 
 To run the project and make predictions, follow these steps:
 
-1. **Prepare the dataset**: Ensure your dataset is in the correct format and located in the `data/` directory.
-2. **Run the data preprocessing script**:
-    ```sh
-    python scripts/preprocess_data.py
-    ```
 Open the project in Jupyter Notebook or VS Code and run all the files.
 
 ---
