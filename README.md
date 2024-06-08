@@ -47,6 +47,10 @@ To run the project and make predictions, follow these steps:
 
 Open the project in Jupyter Notebook or VS Code and run all the files.
 
+## Model Used
+
+The model used in this project is Linear Regression.
+
 ---
 
 Thank you for checking out the Zillow Home Value Prediction project! We hope you find it useful and informative. Happy predicting!
